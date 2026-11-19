@@ -1,0 +1,9 @@
+{
+  "domain": "sang.ceo",
+  "subdomain": "faro",
+  "owner": "programmerterkeren@gmail.com",
+  "repo": "github.com/programmerterkeren/faro",
+  "records": {
+    "CNAME": "cname.vercel-dns.com"
+  }
+}
